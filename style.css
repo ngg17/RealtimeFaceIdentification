@@ -1,0 +1,31 @@
+body
+{
+    background-image: linear-gradient(to right top, #e94560, #0f3460, #16213e, #1a1a2e);
+}
+
+.heading
+{
+    background-image: linear-gradient(to right top, #ffac41, #ff1e56, #323232, #000000);
+    color: white;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.heading_div
+{
+    float: none;
+    background-image: linear-gradient(to right top, #f7f7f2, #c5d86d, #f05d23, #260c1a);
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px black;
+
+}
+
+.heading_div2
+{
+    font-size: 18px;
+    color: black;
+}
